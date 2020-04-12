@@ -1,13 +1,18 @@
-MacOs/dist/input_files/algorithm_input/*.csv
-MacOs/dist/out_files/algorithm_output/*.csv
-MacOs/dist/input_files/proprocess_input/*.csv
-MacOs/dist/input_files/proprocess_input/*.xlsx
+Match_MacOs/dist/algorithm_input/*.csv
+Match_MacOs/dist/algorithm_output/*.csv
 
-MacOs/match.py
 
-Windows_64/dist/input_files/algorithm_input/*.csv
-Windows_64/dist/out_files/algorithm_output/*.csv
-Windows_64/dist/input_files/proprocess_input/*.csv
-Windows_64/dist/input_files/proprocess_input/*.xlsx
+Match_MacOs/match.py
 
-Windows_64/match.py
+Match_Windows_64/dist/algorithm_input/*.csv
+Match_Windows_64/dist/algorithm_output/*.csv
+
+
+Match_Windows_64/match.py
+
+
+Match_Windows_32/dist/algorithm_input/*.csv
+Match_Windows_32/dist/algorithm_output/*.csv
+
+
+Match_Windows_32/match.py
