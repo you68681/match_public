@@ -2,39 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16d62583-9757-4c4a-a39e-f4a1a1a535d5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/.idea/send_MacOs.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/Analysis-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/EXE-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/PKG-00.pkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/PKG-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/PYZ-00.pyz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/PYZ-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/base_library.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/warn-match.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/build/match/xref-match.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/dist/match" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MacOs/match.spec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/.idea/send_windows_64.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/Analysis-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/COLLECT-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/EXE-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/PKG-00.pkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/PKG-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/PYZ-00.pyz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/PYZ-00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/base_library.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/match.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/match.exe.manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/warn-match.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/build/match/xref-match.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/dist/match.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Windows_64/match.spec" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,7 +62,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
+    <option name="x" value="5" />
     <option name="y" value="23" />
     <option name="width" value="1198" />
     <option name="height" value="877" />
@@ -123,6 +90,24 @@
             <path>
               <item name="match_public" type="b2602c69:ProjectViewProjectNode" />
               <item name="match_public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="match_public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="match_public" type="462c0819:PsiDirectoryNode" />
+              <item name="Match_Windows_32" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="match_public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="match_public" type="462c0819:PsiDirectoryNode" />
+              <item name="Match_Windows_32" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="match_public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="match_public" type="462c0819:PsiDirectoryNode" />
+              <item name="Match_Windows_32" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_input" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,7 +152,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="23" width="1198" height="877" extended-state="0" />
+    <frame x="5" y="23" width="1198" height="877" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25432527" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
